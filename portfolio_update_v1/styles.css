@@ -103,7 +103,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #5ba8c6;
 }
 
 ul.skills {
@@ -155,6 +155,11 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
+
+a.download {
+  background-image: url(images/downloadlrg.png);
+}
+
 a.linkedin {
   background-image: url(images/linkedin.svg);
 }
